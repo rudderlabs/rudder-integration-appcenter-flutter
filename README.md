@@ -11,7 +11,7 @@ Questions? Please join our [Slack channel](https://resources.rudderstack.com/joi
 
 ## Integrating AppCenter with the RudderStack Flutter SDK
 
-1. Add [CleverTap](https://clevertap.com) as a destination in the [RudderStack dashboard](https://app.rudderstack.com/).
+1. Add [App Center](https://appcenter.ms/) as a destination in the [RudderStack dashboard](https://app.rudderstack.com/).
 
 2. Open `pubspec.yaml`  and add `rudder_integration_appcenter_flutter` under `dependencies` section:
 
